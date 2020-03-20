@@ -1,0 +1,30 @@
+<templateSet group="user">
+  <template name="log" value="console.log($END$);" description="console.log" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="mq" value="@media ($bp$) {&#10;    $END$&#10;}" description="media query" toReformat="false" toShortenFQNames="true">
+    <variable name="bp" expression="" defaultValue="&quot;--md&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="@mq" value="@include mq($bp$) {&#10;    $END$&#10;}" description="media query" toReformat="false" toShortenFQNames="true">
+    <variable name="bp" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="@trs" value="@include trs();" description="transition" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="@mqu" value="@include mq-up($bp$) {&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="bp" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>
