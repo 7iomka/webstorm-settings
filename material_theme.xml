@@ -14,8 +14,8 @@
     <option name="statusBarTheme" value="false" />
     <option name="tabFontSizeEnabled" value="true" />
     <option name="useMaterialFont" value="false" />
+    <option name="useColoredDirectories" value="false" />
     <option name="highlightThickness" value="1" />
-    <option name="settingsSelectedTab" value="6" />
     <option name="tabsHeight" value="24" />
     <option name="accentColor" value="009688" />
     <option name="highlightColor" value="4385fb" />
