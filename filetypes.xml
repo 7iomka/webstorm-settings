@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="project_opros_view.php" type="HTML" />
       <mapping pattern="asd" type="JSON" />
       <mapping ext="php" type="PHP" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
