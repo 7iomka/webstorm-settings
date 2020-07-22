@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Language injection/Edit injected fragment" />
+    <ignoreAction name="Markdown/Hide errors in code fences" />
+  </component>
+</application>
