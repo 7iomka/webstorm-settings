@@ -33,4 +33,5 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="st" value="{% static &quot;$SELECTION$&quot; %}" toReformat="false" toShortenFQNames="true" />
 </templateSet>
