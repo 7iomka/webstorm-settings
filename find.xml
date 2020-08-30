@@ -16,5 +16,7 @@
     <mask>*.cjs</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
+    <mask>*.tsx</mask>
+    <mask>*.po</mask>
   </component>
 </application>
