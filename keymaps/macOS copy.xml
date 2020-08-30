@@ -6,6 +6,10 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift ctrl meta down" />
   </action>
+  <action id="EditorDuplicate" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
   </action>
@@ -18,6 +22,12 @@
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="shift ctrl meta d" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="ServiceView.GroupByServiceGroups" />
   <action id="TodoViewGroupByShowPackages" />
