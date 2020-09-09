@@ -5,12 +5,13 @@
       <mapping pattern="asd" type="JSON" />
       <mapping ext="php" type="PHP" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
+      <mapping pattern="rr" type="PLAIN_TEXT" />
       <mapping ext="ts " type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="input" type="Vue.js" />
       <mapping pattern="bindsTable" type="Vue.js" />
+      <mapping pattern="input" type="Vue.js" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
