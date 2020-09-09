@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="project_opros_view.php" type="HTML" />
       <mapping pattern="asd" type="JSON" />
+      <mapping pattern=".modernizrrc" type="JavaScript" />
       <mapping ext="php" type="PHP" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="rr" type="PLAIN_TEXT" />
