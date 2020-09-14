@@ -3,5 +3,6 @@
     <ignoreAction name="Language injection/Edit injected fragment" />
     <ignoreAction name="Markdown/Hide errors in code fences" />
     <ignoreAction name="JavaScript/Introduce local variable" />
+    <ignoreAction name="CSS/Extract inline CSS" />
   </component>
 </application>
