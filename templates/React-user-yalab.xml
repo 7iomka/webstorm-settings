@@ -5,7 +5,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="i" value="import  from '$FROM$';" description="" toReformat="false" toShortenFQNames="true">
+  <template name="i" value="import  from '$FROM$';" description="" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="FROM" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
