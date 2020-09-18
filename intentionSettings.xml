@@ -4,5 +4,6 @@
     <ignoreAction name="Markdown/Hide errors in code fences" />
     <ignoreAction name="JavaScript/Introduce local variable" />
     <ignoreAction name="CSS/Extract inline CSS" />
+    <ignoreAction name="CSS/Extract ruleset" />
   </component>
 </application>
