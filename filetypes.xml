@@ -9,6 +9,7 @@
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="rr" type="PLAIN_TEXT" />
       <mapping ext="ts " type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="Twig" />
       <mapping ext="html" type="Twig" />
       <mapping ext="njk" type="Twig" />
